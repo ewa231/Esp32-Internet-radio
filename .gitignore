@@ -1,0 +1,13 @@
+# PlatformIO specific files
+.pio
+.vscode
+
+# Build files
+*.elf
+*.bin
+*.hex
+
+# Other
+Internet radio.code-workspace
+*.pyc
+__pycache__/
